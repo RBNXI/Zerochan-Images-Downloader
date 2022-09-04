@@ -7,7 +7,7 @@ It manages the Zerochan rate limit and all the stuf so you just run it and get a
 
 - Put your tags in tagszerochan.txt like in the example file. Tags separated by space, and last character of the file must be a space.
 - Run in the scripts folder: ./zerochandownloader.sh
-- The first time it runs, it will download all the images of all the tags you set from a week ago. The next time, it will download them from the last time you ran the script until today.
+- The first time it runs, it will download all the images of all the tags you set from a week ago. The next time, it will download them from the last time you ran the script until today. Due to Zerochan limits, it's impossible to download all the images of a tag without time restriction.
 - The images will be downloaded to a folder in your Home folder called "zerochandownloaderimages".
 
 # What do I need?
