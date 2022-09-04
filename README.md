@@ -1,5 +1,5 @@
-# Zerochan-Images-Downloader
-Download images of multiple tags grom zerochan.
+# Zerochan Images Downloader
+Download images of multiple tags from zerochan.
 
 # How it works?.
 
