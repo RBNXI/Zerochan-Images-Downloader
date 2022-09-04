@@ -1,7 +1,7 @@
 # Zerochan Images Downloader
 Download images of multiple tags from zerochan using tags provided in a .txt file.
 Since Zerochan doesn't have an API, this will use curl and some string management to get the images for you.
-It manages the Zerochan rate limit and all the stuf so you just run it and get all your images in a folder after a while.
+It manages the Zerochan rate limit and all the stuff so you just run it and get all your images in a folder after a while.
 
 # How it works?.
 
